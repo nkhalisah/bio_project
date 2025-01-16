@@ -2,3 +2,5 @@ pandas
 networkx
 matplotlib
 biopython
+scikit-learn
+streamlit
