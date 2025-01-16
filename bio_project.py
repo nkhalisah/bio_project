@@ -111,7 +111,7 @@ def main():
     st.title("Feature Selection with ANOVA and RFE")
 
     # Use a fixed file path
-    file_path = 'C:/Processed_Data.csv'
+    file_path = 'Processed_Data.csv'
     try:
         df = load_data(file_path)
         st.write("Dataset Preview:")
